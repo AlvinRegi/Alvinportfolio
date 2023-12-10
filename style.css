@@ -17,7 +17,7 @@
 .main_img{
     width: 50%;
     height: 768px;
-    background-image: url(../main.jpg);
+    background-image: url(../AlvinRegi/Alvinportfolio/main.jpg);
     background-color: black;
     background-repeat: no-repeat;
     background-size: cover;
@@ -25,7 +25,7 @@
 .main_text{
     width: 50%;
     height: 768px;
-    background-image: url(../side.png);
+    background-image: url(../AlvinRegi/Alvinportfolio/side.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -135,7 +135,7 @@
     display: flex;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url(../Alvinportfolio/10th.png);
+    background-image: url(../AlvinRegi/Alvinportfolio/10th.png);
     
 }
 
@@ -184,7 +184,7 @@
         justify-content: center;
         background-repeat: no-repeat;
         background-size: contain;
-        background-image: url(../dotline.png);
+        background-image: url(../AlvinRegi/Alvinportfolio/dotline.png);
 }
 
 
@@ -204,7 +204,7 @@
     display: flex;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url(../python.png);
+    background-image: url(../AlvinRegi/Alvinportfolio/python.png);
     
 }
 
@@ -262,7 +262,7 @@
         justify-content: center;
         background-repeat: no-repeat;
         background-size: contain;
-        background-image: url(../dotlinops.png);
+        background-image: url(../AlvinRegi/Alvinportfolio/dotlinops.png);
 }
 
 /*Education section column 5 */
@@ -279,7 +279,7 @@
     display: flex;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url(../network.png);
+    background-image: url(../AlvinRegi/Alvinportfolio/network.png);
     
 }
 
@@ -329,7 +329,7 @@
         justify-content: center;
         background-repeat: no-repeat;
         background-size: contain;
-        background-image: url(../dotline.png);
+        background-image: url(../AlvinRegi/Alvinportfolio/dotline.png);
 }
 
 
@@ -350,7 +350,7 @@
     display: flex;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url(../flutter.png);
+    background-image: url(../AlvinRegi/Alvinportfolio/flutter.png);
     
 }
 
@@ -392,7 +392,7 @@
     display: flex;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url(../bca.png);
+    background-image: url(../AlvinRegi/Alvinportfolio/bca.png);
     
 }
 
@@ -625,10 +625,10 @@ li{
 
     .box:nth-child(1){
         
-        background-image: url(../miniproj.jpg);
+        background-image: url(../AlvinRegi/Alvinportfolio/miniproj.jpg);
     }
     .box:nth-child(2){
-        background-image: url(../mainproj.jpg);
+        background-image: url(../AlvinRegi/Alvinportfolio/mainproj.jpg);
     }
 
     .box:nth-child(3){
@@ -695,13 +695,13 @@ li{
     }
 
     .mediaim:nth-child(1){
-        background-image: url(../facebook.png);
+        background-image: url(../AlvinRegi/Alvinportfolio/facebook.png);
     }
     .mediaim:nth-child(2){
-        background-image: url(../linkedin.png);
+        background-image: url(../AlvinRegi/Alvinportfolio/linkedin.png);
     }
     .mediaim:nth-child(3){
-        background-image: url(../instagram.png);
+        background-image: url(../AlvinRegi/Alvinportfolio/instagram.png);
     }
 
 
